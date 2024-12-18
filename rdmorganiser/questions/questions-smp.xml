@@ -7,11 +7,11 @@
 This SMP template was inspired by some documentation, specially:
 * https://www.software.ac.uk/resources/guides/software-management-plans
 * https://opencarp.org/about/software-management-plan</dc:comment>
-		<order>98</order>
+		<order>5</order>
 		<title lang="en">Software Management Plan for Researchers</title>
-		<help lang="en">This catalogue is for the management of scientific software projects. It supports scientists in the development and project organisation of software developments through fifty questions in different topic blocks. This is version 3.0 of the catalogue.</help>
+		<help lang="en">This catalogue is for the management of scientific software projects. It supports scientists in the development and project organisation of software developments through different topic blocks.</help>
 		<title lang="de">Software-Management-Plan für Forschende</title>
-		<help lang="de">Dieser Katalog ist für das Management von wissenschaftlichen Software-Projekten. Er unterstützt Wissenschaftler_innen bei der Entwicklung und der Projektorganisation von Software-Entwicklungen durch fünfzig Fragen in unterschiedlichen Themenblöcken. Dies ist Version 3.0.</help>
+		<help lang="de">Dieser Katalog ist für das Management von wissenschaftlichen Software-Projekten. Er unterstützt Wissenschaftler_innen bei der Entwicklung und der Projektorganisation von Software-Entwicklungen in unterschiedlichen Themenblöcken.</help>
 		<title lang="fr">Plan de gestion des logiciels pour chercheurs</title>
 		<help lang="fr">Ce catalogue est destiné à la gestion de projets de logiciels scientifiques. Il aide les scientifiques à développer et à organiser des projets de développement de logiciels grâce à cinquante questions réparties en différents blocs thématiques. Il s'agit de la version 3.0.</help>
 		<title lang="it">Piano di gestione del software per ricercatori</title>

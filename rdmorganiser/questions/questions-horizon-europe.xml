@@ -4,19 +4,11 @@
 		<uri_prefix>https://rdmorganiser.github.io/terms</uri_prefix>
 		<uri_path>horizon-europe</uri_path>
 		<dc:comment>RDMO questionnaire for the funding framework program &quot;Horizon Europe&quot; (2021-2027) of the European Commission</dc:comment>
-		<order>5</order>
+		<order>2</order>
 		<title lang="en">Horizon Europe</title>
-		<help lang="en">This catalog is intended for research projects funded by EU Horizon Europe. It is compiled according to the &lt;a href=&quot;https://ec.europa.eu/info/funding-tenders/opportunities/docs/2021-2027/horizon/temp-form/report/data-management-plan_he_en.docx&quot; target=_blank&gt;Data Management Plan Template, Version 1.0 from May 5, 2021&lt;/a&gt;. Some of the EU questions are broken down into sub-questions. In addition, for many questions there is the option of answering the question on a dataset-specific basis. There is a suitable view for the output of the data management plan, which
-
-- outputs the data management plan in the deliverable form desired by the EU;
-- uses the original EU questions;
-- automatically inserts references to questions that have already been asked in a similar form.</help>
+		<help lang="en">This catalog is intended for research projects funded by EU Horizon Europe.</help>
 		<title lang="de">Horizon Europe</title>
-		<help lang="de">Dieser Katalog ist für Forschungsprojekte bestimmt, die durch die Europäische Kommission im Förderprogramm  Horizon Europe finanziert werden. Er ist nach der &lt;a href=&quot;https://ec.europa.eu/info/funding-tenders/opportunities/docs/2021-2027/horizon/temp-form/report/data-management-plan_he_en.docx&quot; target=_blank&gt;Vorlage für Datenmanagementplan, Version 1.0 vom 5. Mai 2021&lt;/a&gt; zusammengestellt. Einige der EU-Fragen sind in Unterfragen untergliedert. Darüber hinaus besteht bei vielen Fragen die Möglichkeit, die Frage datensatzspezifisch zu beantworten. Für den Output des Datenmanagementplans gibt es eine passende Ansicht, die
-
-- den Datenmanagementplan in der von der EU gewünschten lieferbaren Form ausgibt;
-- die ursprünglichen EU-Fragen verwendet;
-- automatisch Verweise auf Fragen einfügt, die bereits in ähnlicher Form gestellt wurden.</help>
+		<help lang="de">Dieser Katalog ist für Forschungsprojekte bestimmt, die durch die Europäische Kommission im Förderprogramm  Horizon Europe finanziert werden.</help>
 		<title lang="fr">Horizon Europe</title>
 		<help lang="fr">Ce catalogue est destiné aux projets de recherche financés par la Commission Européenne dans le cadre du programme Horizon Europe. Il est compilé selon le &lt;a href=&quot;https://ec.europa.eu/info/funding-tenders/opportunities/docs/2021-2027/horizon/temp-form/report/data-management-plan_he_en.docx&quot; target=_blank&gt;Modèle de Plan de gestion de données, Version 1.0 du 5 mai 2021&lt;/a&gt;. Certaines questions de l'UE sont divisées en sous-questions. En outre, pour de nombreuses questions, il est possible de répondre à la question pour chaque jeu de données. Il existe une « vue » appropriée pour la sortie du plan de gestion des données, qui
 

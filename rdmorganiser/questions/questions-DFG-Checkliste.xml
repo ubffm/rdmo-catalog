@@ -4,11 +4,11 @@
 		<uri_prefix>https://rdmorganiser.github.io/terms</uri_prefix>
 		<uri_path>DFG-Checkliste</uri_path>
 		<dc:comment/>
-		<order>30</order>
+		<order>1</order>
 		<title lang="en">DFG checklist</title>
-		<help lang="en">Catalog according to the DFG checklist of December 21, 2021</help>
+		<help lang="en">This catalogue corresponds to the DFG checklist for data management. It is therefore based on the DFG proposal processes.</help>
 		<title lang="de">DFG-Checkliste</title>
-		<help lang="de">Katalog entsprechend der DFG-Checkliste vom 21.12.2021</help>
+		<help lang="de">Dieser Katalog entsprechend der DFG-Checkliste zum Datenmanagement. Er orientiert sich daher an den DFG-Antragsprozessen.</help>
 		<title lang="fr">Check-list de la DFG</title>
 		<help lang="fr">Catalogue correspondant à la check-list de la DFG du 21/12/2021</help>
 		<title lang="it">Lista di controllo della DFG</title>

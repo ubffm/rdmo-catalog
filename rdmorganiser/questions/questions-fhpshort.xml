@@ -4,11 +4,11 @@
 		<uri_prefix>https://rdmo.fh-potsdam.de/terms</uri_prefix>
 		<uri_path>fhpshort</uri_path>
 		<dc:comment>Ein kurzer Fragenkatalog für die FH Potsdam mit den wichtigstens Fragen</dc:comment>
-		<order>1</order>
+		<order>4</order>
 		<title lang="en">Brief questionaire</title>
-		<help lang="en"/>
+		<help lang="en">This catalogue is a collection of questions for a short, condensed data management plan.</help>
 		<title lang="de">Kurzer Fragenkatalog</title>
-		<help lang="de"/>
+<help lang="de">Dieser Katalog ist eine Sammlung an Fragen für kurzen, komprimierten Datenmanagementplan.</help>
 		<title lang="fr">Questionnaire bref</title>
 		<help lang="fr"/>
 		<title lang="it">Questionario breve</title>
