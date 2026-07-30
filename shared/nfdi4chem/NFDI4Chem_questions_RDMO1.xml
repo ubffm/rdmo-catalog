@@ -5,11 +5,11 @@
 		<key>NFDI4Chem_Vorlage</key>
 		<dc:comment/>
 		<order>45</order>
-		<title lang="en">Discipline specific: NFDI4Chem_Template</title>
+		<title lang="en">NFDI4Chem Template for a DMP</title>
 		<help lang="en">The present questionnaire is a checklist issued by the German Research Foundation (DFG),
 enriched with chemistry-specific content and supplemented with necessary questions for
 better understanding and completeness.</help>
-		<title lang="de">Disziplinspezifisch: NFDI4Chem_Vorlage</title>
+		<title lang="de">NFDI4Chem-Vorlage für einen DMP</title>
 		<help lang="de">Der vorliegende Fragenkatalog ist die von der Deutschen Forschungsgemeinschaft (DFG) herausgegebene Checkliste, welche für ein besseres Verständnis mit chemie-spezifischen Inhalten angereichert und um notwendige Fragen ergänzt wurde.</help>
 	</catalog>
 	<section dc:uri="https://rdmo.nfdi4chem.de/terms/questions/NFDI4Chem_Vorlage/data_description">

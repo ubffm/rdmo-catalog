@@ -4,9 +4,9 @@
 		<uri_prefix>https://rdmorganiser.github.io/terms</uri_prefix>
 		<uri_path>DFG-Checkliste</uri_path>
 		<dc:comment/>
-		<order>30</order>
-		<title lang="en">DFG checklist</title>
-		<help lang="en">Catalog according to the DFG checklist of December 21, 2021. Updated June 24, 2025.</help>
+		<order>1</order>
+		<title lang="en">DFG Checklist</title>
+		<help lang="en">Catalog according to the DFG checklist of 21th December 2021. Updated on 24th June 2025.</help>
 		<title lang="de">DFG-Checkliste</title>
 		<help lang="de">Katalog entsprechend der DFG-Checkliste vom 21.12.2021. Aktualisiert am 24.06.2025.</help>
 		<title lang="fr">Check-list de la DFG</title>

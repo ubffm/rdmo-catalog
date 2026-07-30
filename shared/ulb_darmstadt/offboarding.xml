@@ -5,9 +5,9 @@
 		<uri_path>offboarding/2-0-0</uri_path>
 		<dc:comment/>
 		<order>99</order>
-		<title lang="en">Offboarding Checklist 2.0.0</title>
+		<title lang="en">Data Offboarding Checklist</title>
 		<help lang="en">Document key information about existing data when a project ends or a scientist leaves the research group.</help>
-		<title lang="de">Offboarding-Checkliste 2.0.0</title>
+		<title lang="de">Daten-Offboarding-Checkliste</title>
 		<help lang="de">Erfassen Sie wichtige Informationen zu den vorhandenen Daten bei Projektende oder wenn Forschende die Arbeitsgruppe verlassen.</help>
 		<sections>
 			<section dc:uri="https://tudmo.ulb.tu-darmstadt.de/terms/questions/offboarding/2-0-0/offboarding" order="0"/>
